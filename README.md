@@ -16,8 +16,7 @@ IT Support Specialist | Cloud & Security
 - ☁️ azure-security-portfolio - On construction!
 
 ## 🌱 Currently Learning
-- Advanced multi-cloud security.
-- Cloud automation.
+- Advanced cloud security and automation.
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/sebastiansilc)
@@ -28,9 +27,4 @@ IT Support Specialist | Cloud & Security
 <details>
 <summary>More about me</summary>
 
-Certifications:
-- 🔒 CompTIA Security+
-- 🖧 CompTIA Network+
-- 🖥️  CompTIA A+
-- ☁️ Microsoft Azure AZ 900
 </details>
