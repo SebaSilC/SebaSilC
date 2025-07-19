@@ -13,13 +13,15 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 - 🛡️ [aws-security-portfolio](https://github.com/AWS-Security-Portfolio) — Complete AWS security labs & automation.
 - ☁️ azure-security-portfolio - On construction!
 
+![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true&hide_title=true)
+
 ## 🌱 Currently Learning
 - Advanced cloud security and automation.
 
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastiansilc)
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
+[![Email me](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
 [![Resume](https://img.shields.io/badge/RESUME-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1mZx61C-Dzqzedsh5I0SLu_YJVoeqJRdY/view?usp=drive_link)
 
 ---
@@ -30,6 +32,6 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
   Originally from Chile, I have been traveling the world and living abroad since 2015. Living in Berlin since June 2017. I finished my master's in Filmmaking in 2014.
 
   🌍 [sebastiansilc.com](https://www.sebastiansilc.com)  
-  Languages: EN-C2 / ES-C2 / DE-B2
+  Languages: 🇬🇧 EN-C2 / 🇪🇸 ES-C2 / 🇩🇪 DE-B2
 </details>
 
