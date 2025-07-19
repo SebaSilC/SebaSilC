@@ -1,8 +1,8 @@
 # Hello! I'm Sebastian
-## What I do:
+## 💼 What I do:
 Cloud & Security | IT Support Specialist | Automation Enthusiast
 <br>
-## Certifications:
+## 🎓 Certifications:
 ![CompTIA Security+](https://img.shields.io/badge/COMPTIA%20SECURITY+-ED6C47?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/COMPTIA%20NETWORK+-F7941E?style=for-the-badge&logo=openvpn&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/COMPTIA%20A+-0079C1?style=for-the-badge&logo=intel&logoColor=white)
