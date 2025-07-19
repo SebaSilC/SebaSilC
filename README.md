@@ -26,5 +26,6 @@ IT Support Specialist | Cloud & Security
 
 <details>
 <summary>More about me</summary>
-
+Originally from Chile, I have been traveling the world and living abroad since 2015. Living in Berlin since June 2017. I finished my master in Filmmaking on 2014 - www.sebastiansilc.com
+EN-C2/ES-C2/DE-B2
 </details>
