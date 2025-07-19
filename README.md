@@ -1,9 +1,9 @@
 # Hello! I'm Sebastian
 
-IT Specialist | Cloud & Security
+IT Support Specialist | Cloud & Security
 
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Security%20Specialty-orange)
-[![LinkedIn](https://www.linkedin.com/in/sebastiansilc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sebastiansilc)
 
 ---
 
