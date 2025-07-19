@@ -9,16 +9,14 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 ![Azure AZ-900](https://img.shields.io/badge/AZURE%20AZ--900-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
 <br>
 ---
-<br>
 ## 🔭 Current Projects
 - 🛡️ [aws-security-portfolio](https://github.com/AWS-Security-Portfolio) - Complete AWS security labs & automation.
 - ☁️ azure-security-portfolio - On construction!
-<br>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
 ## 🌱 Currently Learning
 - Advanced cloud security and automation.
-<br>
+  
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastiansilc)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
