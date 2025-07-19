@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello! I'm Sebastian
 
-<!--
-**SebaSilC/SebaSilC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Specialist | Cloud & Security
 
-Here are some ideas to get you started:
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Security%20Specialty-orange)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sebastiansilc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Projects
+- 🛡️ [aws-security-portfolio](https://github.com/yourusername/aws-security-portfolio) — Complete AWS security labs & automation.
+- ⚡ [azure-security-portfolio] (On construction!)
+
+## 🌱 Currently Learning
+- Advanced multi-cloud security.
+- Cloud automation.
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/sebastiansilc)
+- sebastian@playbookvisualarts.com
+
+---
+
+<details>
+<summary>More about me</summary>
+
+Certifications:
+- 🔒 CompTIA Security+
+- 🖧 CompTIA Network+
+- 🖥️  CompTIA A+
+- ☁️ Microsoft Azure AZ 900
+</details>
