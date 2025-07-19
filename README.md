@@ -2,6 +2,11 @@
 ## 💼 What I do:
 Cloud & Security | IT Support Specialist | Automation Enthusiast
 <br>
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastiansilc)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
+[![Resume](https://img.shields.io/badge/RESUME-0078D4?style=for-the-badge)](https://drive.google.com/file/d/1mZx61C-Dzqzedsh5I0SLu_YJVoeqJRdY/view?usp=drive_link)
+<br>
 ## 🎓 Certifications:
 ![CompTIA Security+](https://img.shields.io/badge/COMPTIA%20SECURITY+-ED6C47?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/COMPTIA%20NETWORK+-F7941E?style=for-the-badge&logo=openvpn&logoColor=white)
@@ -15,12 +20,6 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 
 ## 🌱 Currently Learning
 - Advanced cloud security and automation.
-  
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastiansilc)
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
-[![Resume](https://img.shields.io/badge/RESUME-0078D4?style=for-the-badge)](https://drive.google.com/file/d/1mZx61C-Dzqzedsh5I0SLu_YJVoeqJRdY/view?usp=drive_link)
-<br>
 ---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
 ---
