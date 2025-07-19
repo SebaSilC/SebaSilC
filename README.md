@@ -17,9 +17,13 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 - Advanced cloud security and automation.
 
 ## 📫 Contact Me
+
+- [💼 LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+- [✉️ Email](mailto:sebastian@playbookvisualarts.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastiansilc)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1mZx61C-Dzqzedsh5I0SLu_YJVoeqJRdY/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/RESUME-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]
+(https://drive.google.com/file/d/1mZx61C-Dzqzedsh5I0SLu_YJVoeqJRdY/view?usp=drive_link)
 
 ---
 
