@@ -15,7 +15,6 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 - ☁️ azure-security-portfolio - On construction!
 <br>
 
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true&hide_title=true)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
 ## 🌱 Currently Learning
 - Advanced cloud security and automation.
