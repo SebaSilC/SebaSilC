@@ -2,11 +2,10 @@
 
 IT Support Specialist | Cloud & Security
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-red?style=for-the-badge)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network+-orange?style=for-the-badge)
-![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-blue?style=for-the-badge)
-![Azure AZ-900](https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sebastiansilc)
+🔒![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-red?style=for-the-badge)
+🖧![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network+-orange?style=for-the-badge)
+🖥️![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-blue?style=for-the-badge)
+☁️![Azure AZ-900](https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
