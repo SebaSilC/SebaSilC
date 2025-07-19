@@ -3,12 +3,12 @@
 IT Specialist | Cloud & Security
 
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Security%20Specialty-orange)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sebastiansilc)
+[![LinkedIn](https://www.linkedin.com/in/sebastiansilc)
 
 ---
 
 ## 🔭 Current Projects
-- 🛡️ [aws-security-portfolio](https://github.com/yourusername/aws-security-portfolio) — Complete AWS security labs & automation.
+- 🛡️ [aws-security-portfolio](https://github.com/AWS-Security-Portfolio/aws-security-portfolio) — Complete AWS security labs & automation.
 - ⚡ [azure-security-portfolio] (On construction!)
 
 ## 🌱 Currently Learning
