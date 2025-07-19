@@ -32,6 +32,6 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
   Originally from Chile, I have been traveling the world and living abroad since 2015. Living in Berlin since June 2017. I finished my master's in Filmmaking in 2014.
 
   🌍 [sebastiansilc.com](https://www.sebastiansilc.com)  
-Languages: English:C2 / Spanish: Mother tongue / German: B2
+Languages: English: C2 / Spanish: Mother tongue / German: B2
 </details>
 
