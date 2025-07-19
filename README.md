@@ -3,7 +3,6 @@
 Cloud & Security | IT Support Specialist | Automation Enthusiast
 <br>
 ## Certifications:
-<br>
 ![CompTIA Security+](https://img.shields.io/badge/COMPTIA%20SECURITY+-ED6C47?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/COMPTIA%20NETWORK+-F7941E?style=for-the-badge&logo=openvpn&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/COMPTIA%20A+-0079C1?style=for-the-badge&logo=intel&logoColor=white)
@@ -15,15 +14,13 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 - 🛡️ [aws-security-portfolio](https://github.com/AWS-Security-Portfolio) - Complete AWS security labs & automation.
 - ☁️ azure-security-portfolio - On construction!
 <br>
-## GitHub Stats
+
 ![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true&hide_title=true)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
-<br>
 ## 🌱 Currently Learning
 - Advanced cloud security and automation.
 <br>
 ## 📫 Contact Me
-<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastiansilc)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
 [![Resume](https://img.shields.io/badge/RESUME-0078D4?style=for-the-badge)](https://drive.google.com/file/d/1mZx61C-Dzqzedsh5I0SLu_YJVoeqJRdY/view?usp=drive_link)
