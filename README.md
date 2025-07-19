@@ -1,7 +1,7 @@
 # Hello! I'm Sebastian
 ## What I do:
 Cloud & Security | IT Support Specialist | Automation Enthusiast
-
+## Certifications:
 ![CompTIA Security+](https://img.shields.io/badge/COMPTIA%20SECURITY+-ED6C47?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/COMPTIA%20NETWORK+-F7941E?style=for-the-badge&logo=openvpn&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/COMPTIA%20A+-0079C1?style=for-the-badge&logo=intel&logoColor=white)
@@ -10,7 +10,7 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 ---
 
 ## 🔭 Current Projects
-- 🛡️ [aws-security-portfolio](https://github.com/AWS-Security-Portfolio) — Complete AWS security labs & automation.
+- 🛡️ [aws-security-portfolio](https://github.com/AWS-Security-Portfolio) - Complete AWS security labs & automation.
 - ☁️ azure-security-portfolio - On construction!
 
 ![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true&hide_title=true)
