@@ -21,6 +21,7 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
 [![Resume](https://img.shields.io/badge/RESUME-0078D4?style=for-the-badge)](https://drive.google.com/file/d/1mZx61C-Dzqzedsh5I0SLu_YJVoeqJRdY/view?usp=drive_link)
 <br>
+---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
 ---
 
