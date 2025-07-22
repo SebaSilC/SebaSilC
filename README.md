@@ -16,7 +16,7 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 ---
 ## 🔭 Current Projects
 - 🛡️ [aws-security-portfolio](https://github.com/AWS-Security-Portfolio) - Complete AWS security labs & automation.
-- ☁️ azure-security-portfolio - On construction!
+- ☁️ [azure-security-portfolio](https://github.com/Azure-Security-Portfolio)  - Work in progress
 
 ## 🌱 Currently Learning
 - Advanced cloud security and automation.
