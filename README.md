@@ -14,10 +14,10 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 ![Azure AZ-900](https://img.shields.io/badge/AZURE%20AZ--900-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
 <br>
 ---
-## 🔭 Current Projects
-- 🛡️ [aws-security-portfolio](https://github.com/AWS-Security-Portfolio) - Complete AWS security labs & automation.
-- ☁️ [azure-security-portfolio](https://github.com/Azure-Security-Portfolio)  - Work in progress
-
+## 🔭 Project Portfolios
+- ☁️🟧 [aws-security](https://github.com/AWS-Security-Portfolio) - Comprehensive AWS security labs and automation projects.
+- ☁️🔵 [azure-security](https://github.com/Azure-Security-Portfolio) - Complete Azure security automation and compliance labs.
+- ☁️⚙️ [cloud-automation](https://github.com/Cloud-Automation-Portfolio) - 🔨🚧 Every day a new lab.
 ## 🌱 Currently Learning
 - Advanced cloud security and automation.
 ---
