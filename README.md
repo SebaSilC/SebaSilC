@@ -1,6 +1,6 @@
 # Hello! I'm Sebastian
 ## 💼 What I do:
-Cloud & Security | IT Support Specialist | Automation Enthusiast
+Cloud & Security | IT Support Specialist | Automation Skilled
 <br>
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastiansilc)
@@ -19,7 +19,7 @@ Cloud & Security | IT Support Specialist | Automation Enthusiast
 - ☁️🔵 [azure-security](https://github.com/Azure-Security-Portfolio) - Complete Azure security and compliance labs.
 - ☁️⚙️ [cloud-automation](https://github.com/Cloud-Automation-Portfolio) - Complete AWS and Azure security automation.
 ## 🌱 Currently Learning
-- Advanced cloud security and automation.
+- AWS Certified Security Specialty (SCS-C02) 
 ---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
 ---
