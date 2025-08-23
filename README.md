@@ -19,7 +19,7 @@ Cloud & Security | IT Support Specialist | Automation Skilled
 - ☁️🔵 [azure-security](https://github.com/Azure-Security-Portfolio) - Complete Azure security and compliance labs.
 - ☁️⚙️ [cloud-automation](https://github.com/Cloud-Automation-Portfolio) - Complete AWS and Azure security automation.
 ## 🌱 Currently Learning
-- AWS Certified Security Specialty (SCS-C02) 
+- For the AWS Certified Security Specialty exam (SCS-C02) 
 ---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
 ---
