@@ -18,6 +18,7 @@ Cloud & Security | IT Support Specialist | Automation Skilled
 - ☁️🟧 [aws-security](https://github.com/AWS-Security-Portfolio) - Comprehensive AWS security labs.
 - ☁️🔵 [azure-security](https://github.com/Azure-Security-Portfolio) - Complete Azure security and compliance labs.
 - ☁️⚙️ [cloud-automation](https://github.com/Cloud-Automation-Portfolio) - Complete AWS and Azure security automation.
+- ☁️📖 [aws-css](https://github.com/AWS-CSS-Portfolio) - Follow my AWS CSS (SCS-C02) exam learning journey!
 ## 🌱 Currently Learning
 - For the AWS Certified Security Specialty exam (SCS-C02) 
 ---
