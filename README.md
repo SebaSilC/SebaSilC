@@ -9,9 +9,9 @@ Cloud & Security | IT Support Specialist | Automation Skilled
 <br>
 ---
 ## Project Portfolios
-- [aws-security](https://github.com/AWS-Security-Portfolio) - Comprehensive AWS security labs.
-- [azure-security](https://github.com/Azure-Security-Portfolio) - Complete Azure security and compliance labs.
-- [cloud-automation](https://github.com/Cloud-Automation-Portfolio) - Complete AWS and Azure security automation.
+- [aws-cloud-infrastructure](https://github.com/AWS-Security-Portfolio) - Comprehensive AWS security labs.
+- [azure-cloud-environment](https://github.com/Azure-Security-Portfolio) - Complete Azure security and compliance labs.
+- [cloud-infrastructure-automation](https://github.com/Cloud-Automation-Portfolio) - Complete AWS and Azure security automation.
 ---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
 ---
