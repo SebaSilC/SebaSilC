@@ -2,6 +2,7 @@
 ## Cloud Engineer | AWS & Azure
 
 Cloud-focused IT professional with hands-on experience building, supporting and automating AWS and Azure environments.
+
 I work with cloud infrastructure, IAM, networking, monitoring and infrastructure-as-code, with a focus on reliability, automation and operational troubleshooting.
 
 ### What I work with
@@ -13,7 +14,7 @@ I work with cloud infrastructure, IAM, networking, monitoring and infrastructure
 ### Selected Projects
 - AWS and Azure cloud environments with IAM guardrails and centralized logging.
 - Cloud automation using Terraform, Bicep and Ansible.
-- Logging and monitoring for cloud-native workloads.
+- Logging & monitoring for cloud-native workloads.
 
 See pinned repositories below for detailed implementations.
 
