@@ -15,7 +15,7 @@ I work with cloud infrastructure, IAM, networking, monitoring and infrastructure
 - Cloud automation using Terraform, Bicep and Ansible.
 - Logging and monitoring for cloud-native workloads.
 
-📌 See pinned repositories below for detailed implementations.
+See pinned repositories below for detailed implementations.
 
 ### Contact
 - LinkedIn: https://linkedin.com/in/sebastiansilc
