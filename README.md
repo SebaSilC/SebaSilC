@@ -12,9 +12,9 @@ I work with cloud infrastructure, IAM, networking, monitoring and infrastructure
 - Automation and troubleshooting.
 
 ### Selected Projects
-- AWS and Azure cloud environments with IAM guardrails and centralized logging.
-- Cloud automation using Terraform, Bicep and Ansible.
-- Logging & monitoring for cloud-native workloads.
+- **AWS VPC Architecture (Terraform):** Designed a segmented network with public/private subnets, NAT Gateway and bastion host to enforce secure access and network isolation.
+- **Azure RBAC & JIT VM Access:** Implemented least-privilege access using RBAC and time-bound administrative access via Just-In-Time VM access.
+- **Multi-Cloud Terraform IaC:** Provisioned and managed AWS and Azure infrastructure using modular Terraform, remote state backends and policy-as-code.
 
 See pinned repositories below for detailed implementations.
 
