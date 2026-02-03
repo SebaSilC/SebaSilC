@@ -1,27 +1,26 @@
 # Hello! I'm Sebastian
 ## What I do:
-Cloud & Security | IT Support Specialist | Automation Skilled
-<br>
-## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastiansilc)
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sebastian@playbookvisualarts.com)
-[![Resume](https://img.shields.io/badge/RESUME-0078D4?style=for-the-badge)](https://drive.google.com/file/d/1mZx61C-Dzqzedsh5I0SLu_YJVoeqJRdY/view?usp=drive_link)
-<br>
----
-## Project Portfolios
-- [aws-cloud-infrastructure](https://github.com/AWS-Security-Portfolio) - Comprehensive AWS security labs.
-- [azure-cloud-environment](https://github.com/Azure-Security-Portfolio) - Complete Azure security and compliance labs.
-- [cloud-infrastructure-automation](https://github.com/Cloud-Automation-Portfolio) - Complete AWS and Azure security automation.
----
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaSilC&show_icons=true)
----
+## Cloud Engineer | AWS & Azure
 
-<details>
-  <summary>More about me</summary>
+Cloud-focused IT professional with hands-on experience building, supporting, and automating AWS and Azure environments.
 
-  Originally from Chile, I have been traveling the world and living abroad since 2015. Living in Berlin since June 2017. I finished my master's in Filmmaking in 2014.
+I work with cloud infrastructure, IAM, networking, monitoring, and infrastructure-as-code, with a strong focus on reliability, automation, and operational troubleshooting.
 
-  [sebastiansilc.com](https://www.sebastiansilc.com)  
-Languages: English (C2) /  German (B2) / Spanish (Native)
-</details>
+### What I work with
+- AWS & Azure cloud infrastructure
+- IAM, secure networking, logging & monitoring
+- Infrastructure as Code (Terraform, Bicep, CloudFormation)
+- Automation and troubleshooting
+
+### Selected Projects
+- AWS and Azure cloud environments with IAM guardrails and centralized logging
+- Cloud automation using Terraform, Bicep, and Ansible
+- Monitoring and alerting for cloud-native workloads
+
+📌 See pinned repositories below for detailed implementations.
+
+### Contact
+- LinkedIn: https://linkedin.com/in/sebastiansilc
+- Email: sebastian@playbookvisualarts.com
+
 
