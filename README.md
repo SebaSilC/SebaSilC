@@ -1,22 +1,36 @@
 # Hello! I'm Sebastian
 ## Cloud Engineer | AWS & Azure
 
-Cloud-focused IT professional with hands-on experience building, supporting and automating AWS and Azure environments.
+Cloud Engineer focused on secure infrastructure and automation.
 
-I work with cloud infrastructure, IAM, networking, monitoring and infrastructure-as-code, with a focus on reliability, automation and operational troubleshooting.
-
-### What I work with
-- AWS & Azure cloud infrastructure.
-- IAM, secure networking, logging & monitoring.
+### Focused on:
 - Infrastructure as Code (Terraform, Bicep, CloudFormation)
-- Automation and troubleshooting.
+- IAM & secure networking.
+- Centralized logging & monitoring.
+- Automation & operational troubleshooting.
 
-### Selected Projects
-- **AWS VPC Architecture (Terraform):** Designed a segmented network with public/private subnets, NAT Gateway and bastion host to enforce secure access and network isolation.
-- **Azure RBAC & JIT VM Access:** Implemented least-privilege access using RBAC and time-bound administrative access via Just-In-Time VM access.
-- **Multi-Cloud Terraform IaC:** Provisioned and managed AWS and Azure infrastructure using modular Terraform, remote state backends and policy-as-code.
+### Cloud Infrastructure Portfolios
+**AWS Infrastructure:
+- Segmented VPC architecture
+- EC2 hardening (CIS-aligned)
+- S3 security controls
+- Centralized logging (CloudTrail, GuardDuty, Config, Athena)
+- Incident response automation
+**[Portfolio](https://github.com/AWS-Infrastructure-Portfolio)**
 
-See pinned repositories below for detailed implementations.
+**Azure Infrastructure:
+- Virtual Networks & NSGs
+- RBAC & IAM configuration
+- Secure VM access (JIT)
+- Infrastructure as Code (Bicep / Terraform)
+**[Portfolio](https://github.com/Azure-Infrastructure-Portfolio)**
+  
+**Cloud Automation:
+- Multi-cloud Terraform IaC
+- Remote state backends
+- Policy as Code
+- Incident response workflows
+**[Portfolio](https://github.com/Cloud-Infra-Automation-Portfolio)**
 
 ### Contact
 - LinkedIn: https://linkedin.com/in/sebastiansilc
