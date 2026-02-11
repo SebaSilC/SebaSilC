@@ -9,28 +9,25 @@ Cloud Engineer focused on secure infrastructure and automation.
 - Centralized logging & monitoring.
 - Automation & operational troubleshooting.
 
-### Cloud Infrastructure Portfolios
-**AWS Infrastructure:
+### Portfolios
+**AWS Infrastructure:[Portfolio](https://github.com/AWS-Infrastructure-Portfolio)**
 - Segmented VPC architecture
 - EC2 hardening (CIS-aligned)
 - S3 security controls
 - Centralized logging (CloudTrail, GuardDuty, Config, Athena)
 - Incident response automation
-**[Portfolio](https://github.com/AWS-Infrastructure-Portfolio)**
 
-**Azure Infrastructure:
+**Azure Infrastructure:[Portfolio](https://github.com/Azure-Infrastructure-Portfolio)**
 - Virtual Networks & NSGs
 - RBAC & IAM configuration
 - Secure VM access (JIT)
 - Infrastructure as Code (Bicep / Terraform)
-**[Portfolio](https://github.com/Azure-Infrastructure-Portfolio)**
-  
-**Cloud Automation:
+
+**Cloud Infrastructure Automation:[Portfolio](https://github.com/Cloud-Infra-Automation-Portfolio)**
 - Multi-cloud Terraform IaC
 - Remote state backends
 - Policy as Code
 - Incident response workflows
-**[Portfolio](https://github.com/Cloud-Infra-Automation-Portfolio)**
 
 ### Contact
 - LinkedIn: https://linkedin.com/in/sebastiansilc
