@@ -11,7 +11,7 @@ Cloud Engineer building secure, production-ready cloud environments with Infrast
 
 ### Cloud Infrastructure Repositories
 **AWS Secure Infrastructure:**
-[View here](https://github.com/AWS-Secure-Infrastructure)**
+[View here](https://github.com/AWS-Secure-Infrastructure)
 - Segmented VPC architecture.
 - EC2 hardening (CIS-aligned)
 - S3 security controls.
@@ -19,14 +19,14 @@ Cloud Engineer building secure, production-ready cloud environments with Infrast
 - Incident response automation.
 
 **Azure Secure Infrastructure:**
-[View here](https://github.com/Azure-Secure-Infrastructure)**
+[View here](https://github.com/Azure-Secure-Infrastructure)
 - Virtual Networks & NSGs.
 - RBAC & IAM configuration.
 - Secure VM access (JIT)
 - Infrastructure as Code (Bicep / Terraform)
 
 **Multi-Cloud Infrastructure Automation:**
-[View here](https://github.com/Multi-Cloud-Infrastructure-Automation)**
+[View here](https://github.com/Multi-Cloud-Infrastructure-Automation)
 - Multi-cloud Terraform IaC.
 - Remote state backends.
 - Policy as Code.
