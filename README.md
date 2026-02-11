@@ -1,7 +1,7 @@
-# Hello! I'm Sebastian
+Based in Berlin | Open to English-speaking Cloud Engineering roles
 ## Cloud Engineer | Secure Infrastructure & Automation (AWS & Azure)
-
-Cloud Engineer building secure, production-ready cloud environments with Infrastructure as Code.
+Specializing in secure multi-cloud infrastructure, automation and governance.
+Cloud Engineer building secure, production-ready cloud infrastructure with Infrastructure as Code, automation and security best practices.
 
 ### Focused on:
 - Infrastructure as Code (Terraform, Bicep, CloudFormation)
@@ -9,27 +9,27 @@ Cloud Engineer building secure, production-ready cloud environments with Infrast
 - Centralized logging & monitoring.
 - Automation & operational troubleshooting.
 
-### Cloud Infrastructure Repositories
-**AWS Secure Infrastructure:**
-[View here](https://github.com/AWS-Secure-Infrastructure)
+### Featured Infrastructure Repositories
+### AWS Secure Infrastructure:
+[Repository](https://github.com/AWS-Secure-Infrastructure)
 - Segmented VPC architecture.
-- EC2 hardening (CIS-aligned)
+- EC2 hardening (CIS-aligned).
 - S3 security controls.
-- Centralized logging (CloudTrail, GuardDuty, Config, Athena)
+- Centralized logging (CloudTrail, GuardDuty, Config, Athena).
 - Incident response automation.
 
-**Azure Secure Infrastructure:**
-[View here](https://github.com/Azure-Secure-Infrastructure)
+### Azure Secure Infrastructure:
+[Repository](https://github.com/Azure-Secure-Infrastructure)
 - Virtual Networks & NSGs.
 - RBAC & IAM configuration.
-- Secure VM access (JIT)
-- Infrastructure as Code (Bicep / Terraform)
+- Secure VM access (JIT).
+- Infrastructure as Code (Bicep / Terraform).
 
-**Multi-Cloud Infrastructure Automation:**
-[View here](https://github.com/Multi-Cloud-Infrastructure-Automation)
+### Multi-Cloud Infrastructure Automation:
+[Repository](https://github.com/Multi-Cloud-Infrastructure-Automation)
 - Multi-cloud Terraform IaC.
-- Remote state backends.
-- Policy as Code.
+- Terraform remote state backends.
+- Policy as Code (OPA, SCPs, Azure Policy).
 - Incident response workflows.
 
 ### Contact
