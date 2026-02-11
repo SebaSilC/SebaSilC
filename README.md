@@ -1,6 +1,7 @@
 Based in Berlin | Open to English-speaking Cloud Engineering roles
 ## Cloud Engineer | Secure Infrastructure & Automation (AWS & Azure)
 Specializing in secure multi-cloud infrastructure, automation and governance.
+
 Cloud Engineer building secure, production-ready cloud infrastructure with Infrastructure as Code, automation and security best practices.
 
 ### Focused on:
@@ -11,7 +12,7 @@ Cloud Engineer building secure, production-ready cloud infrastructure with Infra
 
 ### Featured Infrastructure Repositories
 ### AWS Secure Infrastructure:
-[Repository](https://github.com/AWS-Secure-Infrastructure)
+[View Repository](https://github.com/AWS-Secure-Infrastructure)
 - Segmented VPC architecture.
 - EC2 hardening (CIS-aligned).
 - S3 security controls.
@@ -19,14 +20,14 @@ Cloud Engineer building secure, production-ready cloud infrastructure with Infra
 - Incident response automation.
 
 ### Azure Secure Infrastructure:
-[Repository](https://github.com/Azure-Secure-Infrastructure)
+[View Repository](https://github.com/Azure-Secure-Infrastructure)
 - Virtual Networks & NSGs.
 - RBAC & IAM configuration.
 - Secure VM access (JIT).
 - Infrastructure as Code (Bicep / Terraform).
 
 ### Multi-Cloud Infrastructure Automation:
-[Repository](https://github.com/Multi-Cloud-Infrastructure-Automation)
+[View Repository](https://github.com/Multi-Cloud-Infrastructure-Automation)
 - Multi-cloud Terraform IaC.
 - Terraform remote state backends.
 - Policy as Code (OPA, SCPs, Azure Policy).
