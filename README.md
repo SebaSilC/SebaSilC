@@ -1,7 +1,7 @@
 # Hello! I'm Sebastian
-## Cloud Engineer | AWS & Azure
+## Cloud Engineer | Secure Infrastructure & Automation (AWS & Azure)
 
-Cloud Engineer focused on secure infrastructure and automation.
+Cloud Engineer building secure, production-ready cloud environments with Infrastructure as Code.
 
 ### Focused on:
 - Infrastructure as Code (Terraform, Bicep, CloudFormation)
@@ -9,25 +9,28 @@ Cloud Engineer focused on secure infrastructure and automation.
 - Centralized logging & monitoring.
 - Automation & operational troubleshooting.
 
-### Portfolios
-**AWS Infrastructure:[Portfolio](https://github.com/AWS-Infrastructure-Portfolio)**
-- Segmented VPC architecture
+### Cloud Infrastructure Repositories
+**AWS Secure Infrastructure:**
+[View here](https://github.com/AWS-Secure-Infrastructure)**
+- Segmented VPC architecture.
 - EC2 hardening (CIS-aligned)
-- S3 security controls
+- S3 security controls.
 - Centralized logging (CloudTrail, GuardDuty, Config, Athena)
-- Incident response automation
+- Incident response automation.
 
-**Azure Infrastructure:[Portfolio](https://github.com/Azure-Infrastructure-Portfolio)**
-- Virtual Networks & NSGs
-- RBAC & IAM configuration
+**Azure Secure Infrastructure:**
+[View here](https://github.com/Azure-Secure-Infrastructure)**
+- Virtual Networks & NSGs.
+- RBAC & IAM configuration.
 - Secure VM access (JIT)
 - Infrastructure as Code (Bicep / Terraform)
 
-**Cloud Infrastructure Automation:[Portfolio](https://github.com/Cloud-Infra-Automation-Portfolio)**
-- Multi-cloud Terraform IaC
-- Remote state backends
-- Policy as Code
-- Incident response workflows
+**Multi-Cloud Infrastructure Automation:**
+[View here](https://github.com/Multi-Cloud-Infrastructure-Automation)**
+- Multi-cloud Terraform IaC.
+- Remote state backends.
+- Policy as Code.
+- Incident response workflows.
 
 ### Contact
 - LinkedIn: https://linkedin.com/in/sebastiansilc
