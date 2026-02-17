@@ -1,5 +1,5 @@
 **Cloud Engineer | Secure Infrastructure & Platform Automation (AWS-first)**  
-Berlin, Germany | EU Work Authorization  
+Berlin, Germany | With EU Work Authorization  
 
 Cloud engineer building secure, modular Infrastructure-as-Code foundations with a focus on governance, access control and platform reliability.
 
