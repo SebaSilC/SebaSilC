@@ -1,42 +1,96 @@
-Based in Berlin | Open to English-speaking Cloud Engineering roles
-## Cloud Engineer | Secure Infrastructure & Automation (AWS & Azure)
-Specializing in secure multi-cloud infrastructure, automation and governance.
+# Sebastian Silva
 
-### Core Competences:
-- Infrastructure as Code (Terraform, Bicep, CloudFormation), CI/CD and policy enforcement.
-- IAM & secure networking.
-- Centralized logging & monitoring.
-- Automation & operational troubleshooting.
+**Cloud Engineer | Secure Platform Infrastructure & Automation (AWS-first, Multi-Cloud Structured)**  
+Berlin, Germany | EU Work Authorization  
 
-## Featured Infrastructure Repositories
+Cloud engineer focused on designing secure, modular Infrastructure-as-Code foundations.  
+Specialized in governance, access control, network security and production-oriented Terraform architecture.
 
-### AWS Secure Infrastructure
-[View Repository](https://github.com/AWS-Secure-Infrastructure)
+---
 
-- Segmented VPC architecture  
-- EC2 hardening (CIS-aligned)  
-- S3 security controls  
-- Centralized logging (CloudTrail, GuardDuty, Config, Athena)  
-- Incident response automation  
+## Core Engineering Focus
 
-### Azure Secure Infrastructure
-[View Repository](https://github.com/Azure-Secure-Infrastructure)
+- Modular Terraform architecture (environment isolation, remote state, reusable modules)
+- IAM guardrails & least-privilege access design
+- Secure network segmentation & platform hardening
+- Policy-as-Code & infrastructure validation in CI/CD
+- Logging, observability & audit baseline design
+- Kubernetes infrastructure governance
 
-- Virtual Networks & NSGs  
-- RBAC & IAM configuration  
-- Secure VM access (JIT)  
-- Infrastructure as Code (Bicep / Terraform)  
+---
 
-### Multi-Cloud Infrastructure Automation
-[View Repository](https://github.com/Multi-Cloud-Infrastructure-Automation)
+# Platform Engineering Portfolio
 
-- Multi-cloud Terraform IaC  
-- Terraform remote state backends  
-- Policy as Code (OPA, SCPs, Azure Policy)  
-- Incident response workflows  
+These repositories represent production-style platform implementations.
 
-### Contact
+---
+
+## Multi-Cloud Platform Baseline (Terraform)
+
+Secure AWS platform foundation structured for multi-cloud extensibility.
+
+- Environment isolation (dev / staging / prod)
+- Remote state with locking & encryption
+- Modular network, IAM and logging baselines
+- CI-integrated policy validation & security scanning
+
+---
+
+## Secure AWS Network Architecture
+
+Production-oriented VPC architecture with:
+
+- Public / private subnet segmentation
+- Bastion access pattern
+- Least-privilege security groups
+- Centralized audit logging
+
+---
+
+## IAM Guardrails & Access Governance
+
+Access control architecture implementing:
+
+- Scoped role-based model
+- Explicit deny guardrails
+- MFA-enforced break-glass access
+- Privilege boundary enforcement
+
+---
+
+## Observability & Logging Governance Stack
+
+Audit-ready logging foundation with:
+
+- CloudTrail baseline
+- Centralized log storage
+- Monitoring & alerting integration
+- Compliance-oriented design
+
+---
+
+## Secure CI/CD for Infrastructure
+
+GitHub Actions-based pipeline enforcing:
+
+- Terraform validation & formatting
+- Security scanning (tfsec / Checkov)
+- Policy-as-Code controls
+- Controlled infrastructure deployment workflow
+
+---
+
+## Kubernetes Infrastructure Baseline
+
+Hardened cluster provisioning with:
+
+- RBAC-based access controls
+- Policy enforcement
+- Infrastructure-as-Code lifecycle management
+
+---
+
+## Contact
+
 - LinkedIn: https://linkedin.com/in/sebastiansilc
 - Email: sebastian@playbookvisualarts.com
-
-
