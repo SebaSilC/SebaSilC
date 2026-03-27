@@ -1,41 +1,56 @@
-**Cloud Engineer | Secure Infrastructure & Platform Automation (AWS-first)**  
-Berlin, Germany | With EU Work Authorization  
+## Hi, I’m Sebastian Silva
 
-Cloud engineer building secure, modular Infrastructure-as-Code foundations with a focus on governance, access control and platform reliability.
+Cloud Engineer (AWS) focused on infrastructure, security, and automation.
 
----
-
-## Core Focus
-
-- Terraform-based platform architecture (environment isolation, remote state, reusable modules)
-- IAM guardrails & least-privilege design
-- Secure network segmentation
-- Policy validation & security scanning in CI/CD
-- Logging & observability baselines
+I build and secure cloud environments using Terraform, with emphasis on IAM governance, network segmentation, and cloud-native detection.
 
 ---
 
-# Platform Repositories
+## Focus Areas
 
-## Multi-Cloud Platform Baseline (Terraform)
-Secure AWS foundation structured for multi-cloud extensibility.  
-Environment isolation, modular design, remote state, CI-integrated policy validation.
-
-## Secure AWS Network Architecture
-Segmented VPC design with bastion access, least-privilege security groups and centralized logging.
-
-## IAM Guardrails & Governance
-Scoped role architecture with explicit deny controls and MFA-enforced break-glass access.
-
-## Observability & Logging Stack
-CloudTrail baseline, centralized audit logging and monitoring integration.
-
-## Secure CI/CD for IaC
-Terraform validation, security scanning and policy enforcement via GitHub Actions.
+- AWS infrastructure (VPC, IAM, multi-environment design)  
+- Infrastructure as Code (Terraform)  
+- Identity & access control (least privilege, guardrails)  
+- Logging & detection (CloudTrail, GuardDuty, CloudWatch)  
+- Event-driven automation (Lambda, boto3)  
 
 ---
 
-## Contact
+## Selected Projects
+
+### AWS Governance & Detection Stack
+Implemented an AWS governance and detection stack using CloudTrail, Config, GuardDuty, and CloudWatch, with event-driven Lambda (boto3) processing to detect, analyze, and enrich high-risk IAM activity.
+
+---
+
+### Secure Terraform CI/CD Pipeline
+Built secure Terraform CI/CD pipelines using OIDC authentication, Checkov scanning, and approval-based deployments.
+
+---
+
+### Secure AWS VPC Architecture
+Designed secure AWS VPC architecture with segmentation, bastion-controlled access, and least-privilege security group design.
+
+---
+
+### Terraform Platform Baseline
+Designed modular multi-environment Terraform platform with segmented VPC architecture, IAM guardrails, and centralized audit logging.
+
+---
+
+## Currently working on 
+
+Improving automation and security integration in AWS environments
+
+---
+
+## Goal
+
+Transition into a Cloud / Infrastructure role with a strong security focus, contributing to building and securing AWS environments.
+
+---
+
+## Links
 
 - LinkedIn: https://linkedin.com/in/sebastiansilc  
-- Email: sebastian@playbookvisualarts.com
+- GitHub: https://github.com/SebaSilC  
