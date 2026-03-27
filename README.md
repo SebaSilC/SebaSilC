@@ -12,7 +12,6 @@ Cloud engineer building secure, modular Infrastructure-as-Code foundations with 
 - Secure network segmentation
 - Policy validation & security scanning in CI/CD
 - Logging & observability baselines
-- Kubernetes infrastructure governance
 
 ---
 
@@ -33,9 +32,6 @@ CloudTrail baseline, centralized audit logging and monitoring integration.
 
 ## Secure CI/CD for IaC
 Terraform validation, security scanning and policy enforcement via GitHub Actions.
-
-## Kubernetes Infrastructure Baseline
-Hardened cluster provisioning with RBAC and policy controls.
 
 ---
 
