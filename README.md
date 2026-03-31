@@ -24,12 +24,12 @@ Designed and implemented an event-driven AWS IAM detection pipeline using CloudT
 ---
 
 ### Secure Terraform CI/CD Pipeline
-Built secure Terraform CI/CD pipelines using OIDC authentication, Checkov scanning, and approval-based deployments.
+Built secure Terraform CI/CD pipelines using OIDC authentication, Checkov scanning, and approval-based deployments, enabling secure and automated infrastructure delivery.
 
 ---
 
 ### Secure AWS VPC Architecture
-Designed secure AWS VPC architecture with segmentation, bastion-controlled access, and least-privilege security group design.
+Designed secure AWS VPC architecture with network segmentation, bastion-controlled access, and least-privilege security group design.
 
 ---
 
@@ -40,7 +40,7 @@ Designed modular multi-environment Terraform platform with segmented VPC archite
 
 ## Currently working on 
 
-Improving automation and security integration in AWS environments
+Expanding into platform engineering and container orchestration concepts (Kubernetes), while deepening AWS automation and security practices.
 
 ---
 
