@@ -18,8 +18,8 @@ I build and secure cloud environments using Terraform, with emphasis on IAM gove
 
 ## Selected Projects
 
-### AWS Governance & Detection Stack
-Implemented an AWS governance and detection stack using CloudTrail, Config, GuardDuty, and CloudWatch, with event-driven Lambda (boto3) processing to detect, analyze, and enrich high-risk IAM activity.
+### AWS IAM Detection Pipeline
+Designed and implemented an event-driven AWS IAM detection pipeline using CloudTrail, EventBridge, and Lambda (boto3) to analyze and enrich security events, enabling detection of privilege escalation scenarios and high-risk access patterns.
 
 ---
 
