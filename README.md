@@ -39,6 +39,13 @@ https://github.com/SebaSilC/terraform-multicloud-platform-baseline
 
 ---
 
+## Additional Projects
+
+- Secure AWS VPC Architecture  
+  https://github.com/SebaSilC/aws-secure-vpc-terraform
+
+---
+
 ## Tech Focus
 
 - AWS (IAM, VPC, CloudTrail, GuardDuty, CloudWatch)
