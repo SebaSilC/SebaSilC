@@ -35,7 +35,7 @@ Designed a secure AWS platform across dev, staging, and production using modular
 
 Implements environment isolation, IAM guardrails, and centralized logging.
 
-https://github.com/SebaSilC/terraform-multicloud-platform-baseline
+https://github.com/SebaSilC/terraform-aws-platform
 
 ---
 
